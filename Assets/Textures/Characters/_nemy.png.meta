@@ -1,0 +1,3874 @@
+fileFormatVersion: 2
+guid: 13860bc1682fe154fbb9b4e839ec26c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4106547042673808955
+    second: _nemy_0
+  - first:
+      213: -4133655630593245403
+    second: _nemy_1
+  - first:
+      213: -10599089960596248
+    second: _nemy_2
+  - first:
+      213: 7924852812821466061
+    second: _nemy_3
+  - first:
+      213: -1276701074821014276
+    second: _nemy_4
+  - first:
+      213: 7022068151114125592
+    second: _nemy_5
+  - first:
+      213: -7000049746372891211
+    second: _nemy_6
+  - first:
+      213: -6291425528630894873
+    second: _nemy_7
+  - first:
+      213: 6584536589912952579
+    second: _nemy_8
+  - first:
+      213: -8980171213225954195
+    second: _nemy_9
+  - first:
+      213: 1489181738987747044
+    second: _nemy_10
+  - first:
+      213: -2651812685871653260
+    second: _nemy_11
+  - first:
+      213: -3469495661223843663
+    second: _nemy_12
+  - first:
+      213: 855634414402184336
+    second: _nemy_13
+  - first:
+      213: 4649800905641765153
+    second: _nemy_14
+  - first:
+      213: 4392388477786479673
+    second: _nemy_15
+  - first:
+      213: 8034673018870609964
+    second: _nemy_16
+  - first:
+      213: 8145809026498695681
+    second: _nemy_17
+  - first:
+      213: -2284204706491111591
+    second: _nemy_18
+  - first:
+      213: 1063876742138271007
+    second: _nemy_19
+  - first:
+      213: -6087398299001580582
+    second: _nemy_20
+  - first:
+      213: -5106654338020512738
+    second: _nemy_21
+  - first:
+      213: 1131367432390635032
+    second: _nemy_22
+  - first:
+      213: 2209931225057036554
+    second: _nemy_23
+  - first:
+      213: -135558141490896866
+    second: _nemy_24
+  - first:
+      213: 5181105613780233733
+    second: _nemy_25
+  - first:
+      213: 8658087143622340575
+    second: _nemy_26
+  - first:
+      213: 3102957209870872790
+    second: _nemy_27
+  - first:
+      213: 8436110839046140701
+    second: _nemy_28
+  - first:
+      213: -796387118735525845
+    second: _nemy_29
+  - first:
+      213: -7947418000448538069
+    second: _nemy_30
+  - first:
+      213: -6676654755278288882
+    second: _nemy_31
+  - first:
+      213: 1743499402861150019
+    second: _nemy_32
+  - first:
+      213: 7735800816541389548
+    second: _nemy_33
+  - first:
+      213: -555175265394167311
+    second: _nemy_34
+  - first:
+      213: 6783880917145256885
+    second: _nemy_35
+  - first:
+      213: 5178937916274011884
+    second: _nemy_36
+  - first:
+      213: 797275514945754865
+    second: _nemy_37
+  - first:
+      213: -2352269923958173685
+    second: _nemy_38
+  - first:
+      213: -3964124099296911942
+    second: _nemy_39
+  - first:
+      213: 1488046381173872433
+    second: _nemy_40
+  - first:
+      213: 3159684975031881629
+    second: _nemy_41
+  - first:
+      213: 6335312186484045523
+    second: _nemy_42
+  - first:
+      213: -159968784413862602
+    second: _nemy_43
+  - first:
+      213: -810774300994242853
+    second: _nemy_44
+  - first:
+      213: 6774821415453400583
+    second: _nemy_45
+  - first:
+      213: -2845800099056139041
+    second: _nemy_46
+  - first:
+      213: -693693328060130994
+    second: _nemy_47
+  - first:
+      213: 5945091822324985835
+    second: _nemy_48
+  - first:
+      213: 4227733124474052107
+    second: _nemy_49
+  - first:
+      213: 3496888174046949186
+    second: _nemy_50
+  - first:
+      213: 3907949719399917226
+    second: _nemy_51
+  - first:
+      213: 7297299197776104719
+    second: _nemy_52
+  - first:
+      213: -10987586949329306
+    second: _nemy_53
+  - first:
+      213: -8241970225289030623
+    second: _nemy_54
+  - first:
+      213: -827470973142223909
+    second: _nemy_55
+  - first:
+      213: -5767272197730214981
+    second: _nemy_56
+  - first:
+      213: 699210087338273385
+    second: _nemy_57
+  - first:
+      213: 4706050710287259742
+    second: _nemy_58
+  - first:
+      213: 7756448338623087039
+    second: _nemy_59
+  - first:
+      213: 6662303454399290909
+    second: _nemy_60
+  - first:
+      213: 3615619867216503405
+    second: _nemy_61
+  - first:
+      213: 3250217016476822354
+    second: _nemy_62
+  - first:
+      213: -1076437842807647236
+    second: _nemy_63
+  - first:
+      213: 7054344609375159421
+    second: _nemy_64
+  - first:
+      213: -5934154150792025363
+    second: _nemy_65
+  - first:
+      213: 5122169349707208446
+    second: _nemy_66
+  - first:
+      213: -619633432839000914
+    second: _nemy_67
+  - first:
+      213: -8243743858793090442
+    second: _nemy_68
+  - first:
+      213: -4496487855491293478
+    second: _nemy_69
+  - first:
+      213: 878519542989560588
+    second: _nemy_70
+  - first:
+      213: -5983531353541460189
+    second: _nemy_71
+  - first:
+      213: 3753936784651235401
+    second: _nemy_72
+  - first:
+      213: -2128564409256135406
+    second: _nemy_73
+  - first:
+      213: -4330565760558746401
+    second: _nemy_74
+  - first:
+      213: -7722980739277908289
+    second: _nemy_75
+  - first:
+      213: -7776605259507803310
+    second: _nemy_76
+  - first:
+      213: -312616689767918159
+    second: _nemy_77
+  - first:
+      213: -5030572318382947637
+    second: _nemy_78
+  - first:
+      213: -4855578799567912639
+    second: _nemy_79
+  - first:
+      213: 3562146909113788727
+    second: _nemy_80
+  - first:
+      213: 4026034562154956460
+    second: _nemy_81
+  - first:
+      213: 9034769075907643539
+    second: _nemy_82
+  - first:
+      213: -1051755179043826621
+    second: _nemy_83
+  - first:
+      213: -5327981754154441675
+    second: _nemy_84
+  - first:
+      213: 6551155816402862756
+    second: _nemy_85
+  - first:
+      213: -1094149359324679995
+    second: _nemy_86
+  - first:
+      213: 5329566920147204868
+    second: _nemy_87
+  - first:
+      213: -1360316982903112541
+    second: _nemy_88
+  - first:
+      213: 2299790708888889938
+    second: _nemy_89
+  - first:
+      213: 7725751517188778381
+    second: _nemy_90
+  - first:
+      213: -3304255988231686287
+    second: _nemy_91
+  - first:
+      213: 7756465637129759720
+    second: _nemy_92
+  - first:
+      213: -3638417288404999141
+    second: _nemy_93
+  - first:
+      213: -3750671732294382997
+    second: _nemy_94
+  - first:
+      213: 1826592352218922810
+    second: _nemy_95
+  - first:
+      213: -3626354090345349968
+    second: _nemy_96
+  - first:
+      213: 8092774042368081772
+    second: _nemy_97
+  - first:
+      213: 1728756958419487979
+    second: _nemy_98
+  - first:
+      213: -2725485052857759075
+    second: _nemy_99
+  - first:
+      213: -650525892802996007
+    second: _nemy_100
+  - first:
+      213: 4112743069532240525
+    second: _nemy_101
+  - first:
+      213: -6390348362176848800
+    second: _nemy_102
+  - first:
+      213: 8569843496971094006
+    second: _nemy_103
+  - first:
+      213: -1768703062237743885
+    second: _nemy_104
+  - first:
+      213: -7952860578471966378
+    second: _nemy_105
+  - first:
+      213: -6822443669286133944
+    second: _nemy_106
+  - first:
+      213: -499112118590131156
+    second: _nemy_107
+  - first:
+      213: -5418324695377213016
+    second: _nemy_108
+  - first:
+      213: -6056527986237904959
+    second: _nemy_109
+  - first:
+      213: 501132765584465457
+    second: _nemy_110
+  - first:
+      213: 7343378689204527850
+    second: _nemy_111
+  - first:
+      213: 7543001569542462150
+    second: _nemy_112
+  - first:
+      213: 4349603788724616865
+    second: _nemy_113
+  - first:
+      213: -4211572270824445831
+    second: _nemy_114
+  - first:
+      213: 6575750039398052962
+    second: _nemy_115
+  - first:
+      213: -7882482959160232919
+    second: _nemy_116
+  - first:
+      213: -7084994158244712510
+    second: _nemy_117
+  - first:
+      213: 650348828548725556
+    second: _nemy_118
+  - first:
+      213: 7392658633459959600
+    second: _nemy_119
+  - first:
+      213: 8564062390821638177
+    second: _nemy_120
+  - first:
+      213: 3129777727369062042
+    second: _nemy_121
+  - first:
+      213: 2934470025555031110
+    second: _nemy_122
+  - first:
+      213: 7696874004732538015
+    second: _nemy_123
+  - first:
+      213: -9216855189636742197
+    second: _nemy_124
+  - first:
+      213: 8914875197568416888
+    second: _nemy_125
+  - first:
+      213: 8959197791883462719
+    second: _nemy_126
+  - first:
+      213: -3977086833747652207
+    second: _nemy_127
+  - first:
+      213: -3186770219454893096
+    second: _nemy_128
+  - first:
+      213: -4403323707712686027
+    second: _nemy_129
+  - first:
+      213: -2108014008598978940
+    second: _nemy_130
+  - first:
+      213: -7526573679148775823
+    second: _nemy_131
+  - first:
+      213: -8292331007375150510
+    second: _nemy_132
+  - first:
+      213: -3571862335136717794
+    second: _nemy_133
+  - first:
+      213: 702885531888917162
+    second: _nemy_134
+  - first:
+      213: 8739943559256277941
+    second: _nemy_135
+  - first:
+      213: -6273113744718805123
+    second: _nemy_136
+  - first:
+      213: 2994226212425682055
+    second: _nemy_137
+  - first:
+      213: 9211419017687317813
+    second: _nemy_138
+  - first:
+      213: -2051899174364413219
+    second: _nemy_139
+  - first:
+      213: -4648829995778769212
+    second: _nemy_140
+  - first:
+      213: -3669030890690853154
+    second: _nemy_141
+  - first:
+      213: 3976081708050231110
+    second: _nemy_142
+  - first:
+      213: 5027688629764281743
+    second: _nemy_143
+  - first:
+      213: 4918940117365044073
+    second: _nemy_144
+  - first:
+      213: 8268198959624853771
+    second: _nemy_145
+  - first:
+      213: 3541369375859232649
+    second: _nemy_146
+  - first:
+      213: -2079152983633807280
+    second: _nemy_147
+  - first:
+      213: -8320824762427222304
+    second: _nemy_148
+  - first:
+      213: 9110048983081488350
+    second: _nemy_149
+  - first:
+      213: -3686845801967244617
+    second: _nemy_150
+  - first:
+      213: 4777760115898237733
+    second: _nemy_151
+  - first:
+      213: 6377896598571129098
+    second: _nemy_152
+  - first:
+      213: -6762496109685236935
+    second: _nemy_153
+  - first:
+      213: -3082951714895116393
+    second: _nemy_154
+  - first:
+      213: 883253209733999649
+    second: _nemy_155
+  - first:
+      213: -4282079664152458039
+    second: _nemy_156
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _nemy_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 358
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36d00427c26df830800000000000000
+      internalID: 4106547042673808955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 356
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f32b2ea1e42a6c0800000000000000
+      internalID: -4133655630593245403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 348
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecc4ff0f285adff0800000000000000
+      internalID: -10599089960596248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 355
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb8a7545abbafd60800000000000000
+      internalID: 7924852812821466061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 356
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc1feef22f384ee0800000000000000
+      internalID: -1276701074821014276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 357
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811ddb767c5637160800000000000000
+      internalID: 7022068151114125592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 355
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd6161f7d3dade90800000000000000
+      internalID: -7000049746372891211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 336
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee912ba0dd50b8a0800000000000000
+      internalID: -6291425528630894873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 332
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fc2546429f06b50800000000000000
+      internalID: 6584536589912952579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 334
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d647a7d4cd5006380800000000000000
+      internalID: -8980171213225954195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 329
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6fc5ec6e2aaa410800000000000000
+      internalID: 1489181738987747044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 328
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47edebf796ed23bd0800000000000000
+      internalID: -2651812685871653260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 336
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b86efa0410e9dfc0800000000000000
+      internalID: -3469495661223843663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 335
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094aa0077f2dfdb00800000000000000
+      internalID: 855634414402184336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 333
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1292119b949678040800000000000000
+      internalID: 4649800905641765153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 340
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c5bf57c06e4fc30800000000000000
+      internalID: 4392388477786479673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_16
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 335
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28b2388a84e08f60800000000000000
+      internalID: 8034673018870609964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_17
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 333
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10210a8b62abb0170800000000000000
+      internalID: 8145809026498695681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_18
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 337
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9576253fbefdc40e0800000000000000
+      internalID: -2284204706491111591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 319
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1593f3a246a3ce00800000000000000
+      internalID: 1063876742138271007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 324
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad391bddf77358ba0800000000000000
+      internalID: -6087398299001580582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 323
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c649f8fe48129b0800000000000000
+      internalID: -5106654338020512738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 317
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ee61e7fac63bf00800000000000000
+      internalID: 1131367432390635032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 325
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09819f8db04bae10800000000000000
+      internalID: 2209931225057036554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 328
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10e50aa6966e1ef0800000000000000
+      internalID: -135558141490896866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_25
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 323
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e2725ea1cf6e740800000000000000
+      internalID: 5181105613780233733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_26
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 326
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf6cf57264b72870800000000000000
+      internalID: 8658087143622340575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_27
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 321
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d03797642bef0b20800000000000000
+      internalID: 3102957209870872790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_28
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 325
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13fa279c16131570800000000000000
+      internalID: 8436110839046140701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_29
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 325
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28721c822aa2f4f0800000000000000
+      internalID: -796387118735525845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 316
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a38b19f6915b190800000000000000
+      internalID: -7947418000448538069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 318
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0807bfdfd1c753a0800000000000000
+      internalID: -6676654755278288882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_32
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 317
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ff4ad2877223810800000000000000
+      internalID: 1743499402861150019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_33
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 314
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2502b4bd51b5b60800000000000000
+      internalID: 7735800816541389548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_34
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 317
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1f81e990f9b48f0800000000000000
+      internalID: -555175265394167311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_35
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 319
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b38ef860cf252e50800000000000000
+      internalID: 6783880917145256885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_36
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 310
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee605d78984fd740800000000000000
+      internalID: 5178937916274011884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_37
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 324
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f655705bdd701b00800000000000000
+      internalID: 797275514945754865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_38
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 312
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0053ae87fe0b5fd0800000000000000
+      internalID: -2352269923958173685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_39
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 314
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd97df622a9cf8c0800000000000000
+      internalID: -3964124099296911942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_40
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 315
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1379c27bc4a96a410800000000000000
+      internalID: 1488046381173872433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 317
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f0aea7eb479db20800000000000000
+      internalID: 3159684975031881629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 301
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6b5902edc8be750800000000000000
+      internalID: 6335312186484045523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_43
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 316
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6355cd5fc3da7cdf0800000000000000
+      internalID: -159968784413862602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_44
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 306
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6f834a11d8fb4f0800000000000000
+      internalID: -810774300994242853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 316
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e1fccce20050e50800000000000000
+      internalID: 6774821415453400583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_46
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 302
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4ccf933efa188d0800000000000000
+      internalID: -2845800099056139041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_47
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 311
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49daede7918f56f0800000000000000
+      internalID: -693693328060130994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_48
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 313
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befa2c29385318250800000000000000
+      internalID: 5945091822324985835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_49
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 304
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e9d6190ecebaa30800000000000000
+      internalID: 4227733124474052107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 306
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f25595441778030800000000000000
+      internalID: 3496888174046949186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_51
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 304
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa66be88093db3630800000000000000
+      internalID: 3907949719399917226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_52
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 305
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d003725f6354560800000000000000
+      internalID: 7297299197776104719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_53
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 302
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e42fe09d6f8dff0800000000000000
+      internalID: -10987586949329306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_54
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 302
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1241d487fb3ae9d80800000000000000
+      internalID: -8241970225289030623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_55
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 302
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd339e7b88b3484f0800000000000000
+      internalID: -827470973142223909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_56
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 304
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbdd431e7886ffa0800000000000000
+      internalID: -5767272197730214981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_57
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 301
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aea2faed714b900800000000000000
+      internalID: 699210087338273385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_58
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 301
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5895a1ff204f4140800000000000000
+      internalID: 4706050710287259742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_59
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 305
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb14c462ba074ab60800000000000000
+      internalID: 7756448338623087039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_60
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 306
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ed35181b1457c50800000000000000
+      internalID: 6662303454399290909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_61
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 303
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62e844ec134d2230800000000000000
+      internalID: 3615619867216503405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_62
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 261
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25be706f7271b1d20800000000000000
+      internalID: 3250217016476822354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_63
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 262
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf399a43c79bf01f0800000000000000
+      internalID: -1076437842807647236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_64
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 261
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d748ff4fb0116e160800000000000000
+      internalID: 7054344609375159421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_65
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 258
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaa1a78d36a5ada0800000000000000
+      internalID: -5934154150792025363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_66
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 261
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef611b892e9951740800000000000000
+      internalID: 5122169349707208446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_67
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 262
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaceca00dae9667f0800000000000000
+      internalID: -619633432839000914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_68
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 232
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672745d33a6589d80800000000000000
+      internalID: -8243743858793090442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 235
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade559c6e144991c0800000000000000
+      internalID: -4496487855491293478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_70
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 231
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b9128aed0213c00800000000000000
+      internalID: 878519542989560588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_71
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 234
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fbfb1afe936fca0800000000000000
+      internalID: -5983531353541460189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_72
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 215
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940b86ecd99a81430800000000000000
+      internalID: 3753936784651235401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_73
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 225
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215bfb882f1d572e0800000000000000
+      internalID: -2128564409256135406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_74
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 218
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd43d65926db6e3c0800000000000000
+      internalID: -4330565760558746401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_75
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 227
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6182c8fe572d490800000000000000
+      internalID: -7722980739277908289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_76
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 223
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b5a9cf7b2f31490800000000000000
+      internalID: -7776605259507803310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_77
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 217
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b55687e6cc59abf0800000000000000
+      internalID: -312616689767918159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 215
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc20fd92121df2ab0800000000000000
+      internalID: -5030572318382947637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 225
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14146d8cec48d9cb0800000000000000
+      internalID: -4855578799567912639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_80
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 214
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739ab73adb94f6130800000000000000
+      internalID: 3562146909113788727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_81
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 227
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca601ba7a195fd730800000000000000
+      internalID: 4026034562154956460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_82
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 218
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398c8253b92f16d70800000000000000
+      internalID: 9034769075907643539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_83
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 220
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3445a62bc3a6761f0800000000000000
+      internalID: -1051755179043826621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 204
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534acddc2d43f06b0800000000000000
+      internalID: -5327981754154441675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_85
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 214
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a24de861816aea50800000000000000
+      internalID: 6551155816402862756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 216
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c03b3a64fcc0d0f0800000000000000
+      internalID: -1094149359324679995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_87
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 208
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bfb0a60ec66f940800000000000000
+      internalID: 5329566920147204868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_88
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 204
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acf02c49ee2f1de0800000000000000
+      internalID: -1360316982903112541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_89
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 206
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ae015077f7aef10800000000000000
+      internalID: 2299790708888889938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_90
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 205
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89e8f47212673b60800000000000000
+      internalID: 7725751517188778381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_91
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 155
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1773e767face422d0800000000000000
+      internalID: -3304255988231686287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_92
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 155
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eba4a5c66084ab60800000000000000
+      internalID: 7756465637129759720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_93
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 154
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14eafbd0ceb18dc0800000000000000
+      internalID: -3638417288404999141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_94
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 157
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a8e7f6eefe2fbc0800000000000000
+      internalID: -3750671732294382997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_95
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 154
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f347f011c595910800000000000000
+      internalID: 1826592352218922810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_96
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 158
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc3e270b2a9cadc0800000000000000
+      internalID: -3626354090345349968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_97
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 128
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ff9da3d1f4f4070800000000000000
+      internalID: 8092774042368081772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_98
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 132
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec04995b47cdf710800000000000000
+      internalID: 1728756958419487979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_99
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 136
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ac6cfd8c12d2ad0800000000000000
+      internalID: -2725485052857759075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_100
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 129
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8984aa52ed8f6f0800000000000000
+      internalID: -650525892802996007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_101
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 130
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a3bef0806631930800000000000000
+      internalID: 4112743069532240525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_102
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 130
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c1379a50ce057a0800000000000000
+      internalID: -6390348362176848800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_103
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 133
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f747a961433ee670800000000000000
+      internalID: 8569843496971094006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_104
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 130
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f47c269fed4477e0800000000000000
+      internalID: -1768703062237743885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_105
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 133
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65988ff9073c1a190800000000000000
+      internalID: -7952860578471966378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_106
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 130
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f561031afc151a0800000000000000
+      internalID: -6822443669286133944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_107
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 117
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24b75c2c2cc219f0800000000000000
+      internalID: -499112118590131156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_108
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 108
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a98056a56e3ec4b0800000000000000
+      internalID: -5418324695377213016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_109
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 116
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7e318a2e3e2fba0800000000000000
+      internalID: -6056527986237904959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_110
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 112
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e98fd589164f600800000000000000
+      internalID: 501132765584465457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_111
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 105
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2a53dc20ce8e560800000000000000
+      internalID: 7343378689204527850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_112
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 107
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cadac486ff1ea860800000000000000
+      internalID: 7543001569542462150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_113
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 119
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aebf94c995ec5c30800000000000000
+      internalID: 4349603788724616865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_114
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 116
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978af93655d7d85c0800000000000000
+      internalID: -4211572270824445831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_115
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 120
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264f41e22d1c14b50800000000000000
+      internalID: 6575750039398052962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_116
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 115
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9243f27038bcb9290800000000000000
+      internalID: -7882482959160232919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_117
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 114
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf2b1ad95b0dad90800000000000000
+      internalID: -7084994158244712510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_118
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 114
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bfcb950d0860900800000000000000
+      internalID: 650348828548725556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_119
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 117
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0370b11fbdff79660800000000000000
+      internalID: 7392658633459959600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_120
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 107
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120d43fbe59a9d670800000000000000
+      internalID: 8564062390821638177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_121
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 100
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9623c1c2443f6b20800000000000000
+      internalID: 3129777727369062042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_122
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 104
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6443d35d0f459b820800000000000000
+      internalID: 2934470025555031110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_123
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 101
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c6505a02ac0da60800000000000000
+      internalID: 7696874004732538015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_124
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 107
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc38c7bb907271080800000000000000
+      internalID: -9216855189636742197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_125
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 106
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c710852cff7bb70800000000000000
+      internalID: 8914875197568416888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_126
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 103
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f388da18ce6755c70800000000000000
+      internalID: 8959197791883462719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_127
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 111
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1919691a89c8ec8c0800000000000000
+      internalID: -3977086833747652207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_128
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 106
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3f890ae5156c3d0800000000000000
+      internalID: -3186770219454893096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_129
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 102
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538babaea6044e2c0800000000000000
+      internalID: -4403323707712686027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_130
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 102
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e19eb8d64deb2e0800000000000000
+      internalID: -2108014008598978940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_131
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 56
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1764886cd1d3c8790800000000000000
+      internalID: -7526573679148775823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_132
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 61
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252727922e8bbec80800000000000000
+      internalID: -8292331007375150510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_133
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 57
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14249771223e6ec0800000000000000
+      internalID: -3571862335136717794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_134
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 62
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa100ecaa621c900800000000000000
+      internalID: 702885531888917162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_135
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 62
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b30f666c548a4970800000000000000
+      internalID: 8739943559256277941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_136
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 25
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d774a6a194c61f8a0800000000000000
+      internalID: -6273113744718805123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_137
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 22
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ccbc840e0ad8920800000000000000
+      internalID: 2994226212425682055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_138
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53db78adac885df70800000000000000
+      internalID: 9211419017687317813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_139
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 19
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2871582903683e0800000000000000
+      internalID: -2051899174364413219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_140
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 31
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cefc68dfb90c7fb0800000000000000
+      internalID: -4648829995778769212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_141
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 19
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6cf6228dbf41dc0800000000000000
+      internalID: -3669030890690853154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_142
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 19
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f234e4f31ed2730800000000000000
+      internalID: 3976081708050231110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_143
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 15
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85de52cb20f5c540800000000000000
+      internalID: 5027688629764281743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_144
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 25
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96336fe99f5934440800000000000000
+      internalID: 4918940117365044073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_145
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 27
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0991b0a52b8eb270800000000000000
+      internalID: 8268198959624853771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_146
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 29
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f49823fa8752130800000000000000
+      internalID: 3541369375859232649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_147
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 32
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05830d0906d5523e0800000000000000
+      internalID: -2079152983633807280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_148
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 3
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e65045d6fd768c80800000000000000
+      internalID: -8320824762427222304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_149
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 21
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf0bf278456d6e70800000000000000
+      internalID: 9110048983081488350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_150
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 11
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba2a10e641b5dcc0800000000000000
+      internalID: -3686845801967244617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_151
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523c42203830e4240800000000000000
+      internalID: 4777760115898237733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_152
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0911043a27d28850800000000000000
+      internalID: 6377896598571129098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_153
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b10431e99c622a0800000000000000
+      internalID: -6762496109685236935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_154
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 4
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797cefddfb72735d0800000000000000
+      internalID: -3082951714895116393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_155
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 13
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c2be45d12f14c00800000000000000
+      internalID: 883253209733999649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _nemy_156
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 3
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccc44e9b3ff294c0800000000000000
+      internalID: -4282079664152458039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 179a7e620ae88d44abe2e3f4148c52fe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
